@@ -1,2 +1,2 @@
-# relevel_batch3n4_practice1
+# Job Portal App
 Creating an application like Naukari.com
